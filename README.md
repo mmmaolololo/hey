@@ -1,2 +1,2 @@
-# hey
+# FRESHMAN DISCUSSING COURSE
 gba emulator
