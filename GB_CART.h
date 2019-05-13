@@ -1,7 +1,11 @@
 #pragma once
 #include "GB.h"
 #include <ctime>
-
+/*
+directly used by MMU.
+manage cart info,alloc proper mem space to store data
+use the given MBC to manage the mem banks.
+*/
 
 class MBC {
 public:
